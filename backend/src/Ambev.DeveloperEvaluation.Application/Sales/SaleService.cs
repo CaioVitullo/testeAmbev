@@ -14,10 +14,10 @@ namespace Ambev.DeveloperEvaluation.Application.Sales
 {
     public class SaleService : ISaleService
     {
-        private readonly ISaleRepository<SaleServiceDto> _saleRepository; // Assuming you have a repository pattern
+        private readonly ISaleRepository _saleRepository; // Assuming you have a repository pattern
         private readonly IMapper _mapper;
 
-        public SaleService(ISaleRepository<SaleServiceDto> saleRepository, IMapper mapper)
+        public SaleService(ISaleRepository saleRepository, IMapper mapper)
         {
             _saleRepository = saleRepository;
             _mapper = mapper;

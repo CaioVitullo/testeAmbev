@@ -8,9 +8,11 @@ namespace Ambev.DeveloperEvaluation.WebApi.Mappings
     {
         public MappingProfile()
         {
-            CreateMap<SaleDto, SaleServiceDto>().ReverseMap();
-            CreateMap<SaleItemDto, SaleItemServiceDto>().ReverseMap();
+            CreateMap<SaleRequest, SaleServiceDto>().ReverseMap();
+            CreateMap<SaleItemRequest, SaleItemServiceDto>().ReverseMap();
             CreateMap<SaleQueryParameters, SaleQueryParametersServiceDto>();
+            CreateMap<SaleServiceDto, SaleResponse>();
+            CreateMap<SaleItemServiceDto, SaleItemResponse>();
         }
     }
 }
