@@ -147,6 +147,7 @@ C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\n
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfoInputs.cache
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfo.cs
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.csproj.CoreCompileInputs.cache
+C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.sourcelink.json
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.De.50E9DA09.Up2Date
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.dll
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Integration.dll

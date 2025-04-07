@@ -217,6 +217,7 @@ C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\A
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfoInputs.cache
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfo.cs
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.csproj.CoreCompileInputs.cache
+C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.sourcelink.json
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.De.64BAE37D.Up2Date
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.dll
 C:\Code\template\backend\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Unit.dll
