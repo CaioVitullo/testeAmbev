@@ -1,5 +1,10 @@
 # Developer Evaluation Project
 
+#Notes
+O método de CreateUser está diferente dos demais métodos e é o modelo que seguiria para todos se tivesse tempo para tal.
+Faltou alterar os métodos de Update/Delete para seguir o mesmo padro do Create
+Faltou criar e conectar com uma base de dados real
+
 ## Overview
 This project implements an API for managing sales records using ASP.NET Core and follows the principles of Domain-Driven Design (DDD). The API provides functionality for creating, retrieving, updating, and deleting sales records.
 
