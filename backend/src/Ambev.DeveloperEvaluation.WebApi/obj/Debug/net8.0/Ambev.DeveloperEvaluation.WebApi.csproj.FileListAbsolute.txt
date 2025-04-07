@@ -137,6 +137,7 @@ C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\A
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.CoreCompileInputs.cache
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.sourcelink.json
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\scopedcss\bundle\Ambev.DeveloperEvaluation.WebApi.styles.css
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Code\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.development.json
