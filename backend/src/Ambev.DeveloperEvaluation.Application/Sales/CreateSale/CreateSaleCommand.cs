@@ -2,7 +2,6 @@
 using Ambev.DeveloperEvaluation.Common.Validation;
 using Ambev.DeveloperEvaluation.Domain.Entities;
 using MediatR;
-using System.Collections.Generic;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales
 {

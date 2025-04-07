@@ -4,7 +4,7 @@ using Ambev.DeveloperEvaluation.Domain.Entities;
 
 namespace Ambev.DeveloperEvaluation.ORM.Repositories
 {
-    public class SaleRepository : ISaleRepository<SaleServiceDto>
+    public class SaleRepository : ISaleRepository
     {
         private readonly DbContext _context;
         private readonly DbSet<SaleServiceDto> _sales;
